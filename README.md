@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev_Segun
 - 👀 I’m interested in Web Development 
-- 🌱 I’m Front End Development 
+- 🌱 I’m Front End Developer
 - 💞️ I’m looking to collaborate on this platform 
 - 📫 YOu can reach me on emmanuelsegun373@gmail.com.
 
